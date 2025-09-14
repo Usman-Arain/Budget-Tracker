@@ -73,7 +73,7 @@ The tool aims to make personal finance management simple, accessible, and intell
 
 5. Run the application:
    ```bash
-   python budget_tracker.py
+   python code.py
 
 ---
 
